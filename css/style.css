@@ -1,0 +1,13 @@
+body{
+    color: black;
+}
+h1{
+    text-align: center;
+}
+table{
+    width: 50%;
+}
+.add{
+    margin-bottom: 10px;
+    width: 150px;
+}
